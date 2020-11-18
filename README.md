@@ -1,2 +1,2 @@
 # Apk-Enryptor
-This is mobile version 
+This is a mobile version 
