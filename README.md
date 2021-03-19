@@ -1,2 +1,2 @@
 # Apk-Enryptor
-This is a mobile version 
+Mobile version, of an encryption program. For phones or tablets. 
